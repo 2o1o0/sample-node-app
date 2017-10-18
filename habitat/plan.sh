@@ -1,5 +1,5 @@
 pkg_name=sample-node-app
-pkg_origin=your_origin
+pkg_origin=2o1o0-velocitylondon
 pkg_scaffolding="core/scaffolding-node"
 pkg_version="1.0.1"
 
